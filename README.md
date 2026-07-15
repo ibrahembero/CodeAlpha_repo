@@ -23,7 +23,7 @@ The goal of this project is to apply basic classification concepts in machine le
 4. **Evaluation:** Checking the model's performance using accuracy score, confusion matrix, and classification report.
 
 ## 📈 Results
-*   **Model Used:** [e.g., Logistic Regression / Random Forest]
+*   **Model Used:** [e.g., Decision Tree Classifier]
 *   **Accuracy Achieved:** [e.g., 98%]
 
 ---
