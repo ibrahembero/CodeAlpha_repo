@@ -52,7 +52,7 @@ This project applies machine learning to solve a real-world pricing problem. Car
 4. **Evaluation:** Measuring performance using metrics like R-squared ($R^2$) and Mean Absolute Error (MAE).
 
 ## 📈 Results
-*   **Model Used:** [e.g., Random Forest Regressor]
+*   **Model Used:** [e.g., LinearRegression, Random Forest Regressor]
 *   **R-squared Score:** [e.g., 0.91]
 
 ---
